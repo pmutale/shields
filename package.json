@@ -38,7 +38,7 @@
     "dotenv": "^8.2.0",
     "emojic": "^1.1.16",
     "escape-string-regexp": "^4.0.0",
-    "fast-xml-parser": "^3.17.4",
+    "fast-xml-parser": "^3.19.0",
     "fsos": "^1.1.6",
     "glob": "^7.1.6",
     "graphql": "^14.7.0",
